@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
+  siteTitle: "Code Zero - Start from Scratch", // <title>
+  shortSiteTitle: "Code Zero", // <title> ending for posts and pages
+  siteDescription: "Code Zero is a mentoring platform",
   siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",

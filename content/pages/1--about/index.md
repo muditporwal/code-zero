@@ -2,11 +2,11 @@
 title: About
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+This site should act as a guide to programming starters.
 
 ### Features:
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
+* **Easy access** to relevant content
 * **CSS** with `styled-jsx` and `PostCSS`
 * **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
 * **Social** sharing (Twitter, Facebook, Google, LinkedIn)
