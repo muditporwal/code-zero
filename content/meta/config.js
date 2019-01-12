@@ -2,22 +2,22 @@ module.exports = {
   siteTitle: "Code Zero - Start from Scratch", // <title>
   shortSiteTitle: "Code Zero", // <title> ending for posts and pages
   siteDescription: "Code Zero is a mentoring platform",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteUrl: "https://code0.netlify.com/",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Mudit Porwal",
+  authorTwitterAccount: "muditporwal",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "Mudit Porwal",
+  headerSubTitle: "StarterKit for Programmers",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "Code Zero Blog",
+  manifestShortName: "Code Zero", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
@@ -32,8 +32,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/muditporwal" },
+    { name: "twitter", url: "https://twitter.com/mudit_porwal" },
+    { name: "facebook", url: "http://facebook.com/mudit.porwal" }
   ]
 };

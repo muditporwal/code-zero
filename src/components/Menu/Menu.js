@@ -17,9 +17,7 @@ class Menu extends React.Component {
 
     const pages = props.pages.map(page => ({
       to: page.node.fields.slug,
-      label: page.node.frontmatter.menuTitle
-        ? page.node.frontmatter.menuTitle
-        : page.node.frontmatter.title
+      label: page.node.frontmatter.title
     }));
 
     this.items = [
